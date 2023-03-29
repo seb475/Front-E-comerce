@@ -4,7 +4,7 @@ import Home from "./pages/Home";
 import Purchases from './pages/Purchases';
 import Login from "./pages/Login";
 import ProductDetail from './pages/ProductDetail';
-import NavBar from "./components/Navbar";
+import NavBar from "./components/NavBar";
 import Container from "react-bootstrap/Container";
 import Loader from './components/Loader';
 import { useSelector } from "react-redux";
